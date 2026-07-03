@@ -26,3 +26,5 @@
 ## 🛠️ Запуск игры
 1. Склонируйте или скачайте файлы репозитория в одну папку.
 2. Откройте файл `index.html` в любом современном веб-браузере (Chrome, Firefox, Edge, Safari).
+
+<img width="820" height="831" alt="Снимок экрана (1239)" src="https://github.com/user-attachments/assets/8db12bcf-71ec-434e-af0c-0ed180160c45" />
